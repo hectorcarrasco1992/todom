@@ -21,3 +21,10 @@ document.querySelector('.add-todo').addEventListener('click', function(){
     
     
 })
+
+
+const myNewDiv = document.createElement('div')
+const myImg = document.createElement('img').src = 'https://media.giphy.com/media/z7TEZaSJ6YF8c/source.gif'
+
+document.querySelector('.app').appendChild(myImg)
+

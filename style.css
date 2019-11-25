@@ -1,0 +1,19 @@
+
+
+body{
+    background-color: aqua;
+    font-family: 'Permanent Marker', cursive;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    
+}
+
+button{
+    font-family: 'Permanent Marker', cursive;;
+}
